@@ -1,3 +1,4 @@
+
 def ceiling(x, y):
     """
     Compute the ceiling of y / x using integer arithmetic.
