@@ -62,7 +62,7 @@ def bellman_ford(currencies, weights, log_margin=1e-8):
 
 # 3. Main script
 if __name__ == "__main__":
-    api_key = 'e3a1e4ac4e4d1d1894c7431d'
+    api_key = 'API-KEY'
     top_currencies = ['USD', 'EUR', 'CAD', 'JPY', 'SGD']
 
     weights = get_currencies(api_key, top_currencies)
